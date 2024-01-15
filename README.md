@@ -23,13 +23,15 @@
   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a> 
 </p>
 
-### Portfolio
+<h3 align="left">Portfolio:</h3>
 
 -  https://www.swipeeats.net/
 
-<a href="https://github.com/GorillaSwe">
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=GorillaSwe&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/GorillaSwe">
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorillaSwe&layout=compact&theme=dracula" />
-</a>
+
+<h3 align="left">Analysis:</h3>
+  <a href="https://github.com/GorillaSwe">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=GorillaSwe&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/GorillaSwe">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorillaSwe&layout=compact&theme=dracula" />
+  </a>
